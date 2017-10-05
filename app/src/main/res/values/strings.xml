@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MQuiz</string>
+    <string name="question">Question</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="prev">Previous</string>
+
+    <array name="all_questions">
+        <item>Pregunta 1;a;b;*c;d</item>
+        <item>Pregunta 2;a;*b;c;d</item>
+    </array>
+
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+
+</resources>
